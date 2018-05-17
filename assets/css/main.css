@@ -751,16 +751,16 @@ img {
 }
 
 a {
-  color: #15F3A8;
+  color: #66ccff;
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-  color: #1bdc9b;
+  color: #66ccff;
 }
 
 blockquote {
-  border-left: 5px solid #15F3A8;
+  border-left: 5px solid #66ccff;
   padding-left: 1.1rem;
   margin-left: 1.2rem;
   font-style: italic;
@@ -823,7 +823,7 @@ pre code {
 .sidebar-menu .menu-links:hover {
   -webkit-transform: translateY(3px);
           transform: translateY(3px);
-  background-color: #15F3A8;
+  background-color: #66ccff;
   color: #515151;
 }
 
@@ -847,7 +847,7 @@ pre code {
 
 .sidebar-logo .logo {
   font-family: 'Finger Paint', cursive;
-  color: #15F3A8;
+  color: #66ccff;
   text-transform: uppercase;
   text-decoration: none;
   font-size: 3rem;
