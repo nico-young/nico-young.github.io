@@ -815,6 +815,7 @@ pre code {
   display: block;
   text-decoration: none;
   padding: 1rem 1.3rem;
+  text-align:center;
   color: #fff;
   font-weight: 700;
   -webkit-transition: all .35s;
