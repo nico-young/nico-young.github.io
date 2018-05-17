@@ -912,6 +912,7 @@ pre code {
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
+  float: right;
   font-size: 0.8rem;
   text-transform: uppercase;
   font-family: monospace;
@@ -919,9 +920,9 @@ pre code {
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
-  align: "right";
   color: #09f;
 }
+
 
 img.post-image, img.page-img {
   width: 100%;
