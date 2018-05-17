@@ -919,6 +919,7 @@ pre code {
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
+  align: "right";
   color: #09f;
 }
 
